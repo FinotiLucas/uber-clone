@@ -1,4 +1,4 @@
-# A Uber Clone written in React Native
+# A Uber Clone written in JavaScript with React Native
 
 
 <h4 align="center">
